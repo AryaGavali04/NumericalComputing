@@ -13,5 +13,6 @@ int main(){
     else {
          printf("%d is Odd");
     }
+    peintf("invalidate");
     return 0;
 }
